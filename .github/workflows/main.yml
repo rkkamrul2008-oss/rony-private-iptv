@@ -13,11 +13,11 @@ jobs:
     steps:
     # ১. রিপোজিটরির ফাইলগুলো রোবটের কাছে নিয়ে আসা
     - name: Checkout repository code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     # ২. ব্যাকগ্রাউন্ড সার্ভারে পাইথন সেটআপ করা
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.x'
 
