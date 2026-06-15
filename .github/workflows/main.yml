@@ -5,7 +5,6 @@ on:
   schedule:
     - cron: '0 0 * * *' 
 
-# এখানে গিটহাবের রানারকে সরাসরি Node 24 ব্যবহার করতে বাধ্য করা হচ্ছে
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
 
@@ -22,6 +21,12 @@ jobs:
       with:
         python-version: '3.x'
 
+    # এখানে ইউটিউব লিংক এক্সট্র্যাক্ট করার জন্য প্রয়োজনীয় লাইব্রেরি ইন্সটল করা হচ্ছে
+    - name: Install yt-dlp
+      run: |
+        python -m pip install --upgrade pip
+        pip install yt-dlp
+
     - name: Run IPTV Scraper Script
       run: python scraper.py
 
@@ -30,5 +35,5 @@ jobs:
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add live_*.m3u
-        git commit -m "Automated Playlist Update" || echo "No changes to commit"
+        git commit -m "Automated Playlist Update with YouTube Support" || echo "No changes to commit"
         git push
