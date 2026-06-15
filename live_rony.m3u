@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Premium Channel 1", Premium Channel 1
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd.m3u
+#EXTINF:-1 tvg-name="Premium Channel 8", Premium Channel 8
+https://banglavu.top/live/shamim77/shamim77/36.m3u8
+#EXTINF:-1 tvg-name="Premium Channel 15", Premium Channel 15
+https://banglavu.top/live/shamim77/shamim77/28.m3u8
+#EXTINF:-1 tvg-name="Premium Channel 19", Premium Channel 19
+https://banglavu.top/live/shamim77/shamim77/30.m3u8
+#EXTINF:-1 tvg-name="Premium Channel 20", Premium Channel 20
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Premium Channel 26", Premium Channel 26
+https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
+#EXTINF:-1 tvg-name="Premium Channel 28", Premium Channel 28
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Premium Channel 29", Premium Channel 29
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Premium Channel 31", Premium Channel 31
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+#EXTINF:-1 tvg-name="Premium Channel 32", Premium Channel 32
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 tvg-name="Premium Channel 38", Premium Channel 38
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="Premium Channel 43", Premium Channel 43
+https://banglavu.top/live/shamim77/shamim77/46.m3u8
+#EXTINF:-1 tvg-name="Premium Channel 47", Premium Channel 47
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-name="Premium Channel 48", Premium Channel 48
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-name="Premium Channel 51", Premium Channel 51
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Premium Channel 60", Premium Channel 60
+https://banglavu.top/live/shamim77/shamim77/39.m3u8
+#EXTINF:-1 tvg-name="Premium Channel 64", Premium Channel 64
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Premium Channel 66", Premium Channel 66
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 tvg-name="Premium Channel 74", Premium Channel 74
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Premium Channel 76", Premium Channel 76
+https://banglavu.top/live/shamim77/shamim77/29.m3u8
+#EXTINF:-1 tvg-name="Premium Channel 77", Premium Channel 77
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+#EXTINF:-1 tvg-name="Premium Channel 83", Premium Channel 83
+https://banglavu.top/live/shamim77/shamim77/31.m3u8
+#EXTINF:-1 tvg-name="Premium Channel 86", Premium Channel 86
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Premium Channel 87", Premium Channel 87
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Premium Channel 88", Premium Channel 88
+http://158.69.24.53:8080/probashi_tv/index.m3u8
