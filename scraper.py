@@ -1,47 +1,46 @@
 import urllib.request
-import re
 import os
 
 def check_and_scrape():
-    input_file = "sources.txt"
-    output_file = "live.m3u"
+    source_file = "sources.txt"
+    user_file = "users.txt"
     
-    # sources.txt ফাইলটি আছে কিনা চেক করা
-    if not os.path.exists(input_file):
-        print(f"Error: {input_file} found না!")
+    if not os.path.exists(source_file):
+        print("Error: sources.txt পাওয়া যায়নি!")
         return
 
-    print("--- স্ক্রিপ্ট রান হচ্ছে: লিংক যাচাইকরণ শুরু হলো ---")
-    
-    with open(input_file, "r") as f:
+    # ১. সচল লিংকগুলো স্ক্র্যাপ করা
+    print("--- লিংক যাচাইকরণ শুরু হলো ---")
+    with open(source_file, "r") as f:
         urls = [line.strip() for line in f if line.strip() and not line.startswith("#")]
 
-    valid_channels = []
-    
-    # প্রতিটি লিংক চেক করার লুপ
+    valid_urls = []
     for index, url in enumerate(urls, start=1):
         try:
-            print(f"চেক করা হচ্ছে ({index}/{len(urls)}): {url}")
-            
-            # লিংকটি সচল কিনা যাচাই করার জন্য রিকোয়েস্ট পাঠানো
             req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
             with urllib.request.urlopen(req, timeout=5) as response:
                 if response.getcode() == 200:
-                    # সচল হলে চ্যানেলের নাম অটো-জেনারেট করা (যেমন: Channel 1, Channel 2)
-                    channel_name = f"Premium Channel {index}"
-                    valid_channels.append((channel_name, url))
-                    print("-> [সফল] লিংকটি সচল আছে!")
-        except Exception as e:
-            print(f"-> [বাদ] লিংকটি কাজ করছে না বা টাইমআউট হয়েছে।")
+                    valid_urls.append((f"Premium Channel {index}", url))
+                    print(f"-> [সচল] Channel {index}")
+        except:
+            print(f"-> [বাদ] Channel {index} কাজ করছে না")
 
-    # নতুন প্রটেক্টেড M3U ফাইল তৈরি
-    with open(output_file, "w", encoding="utf-8") as out:
-        out.write("#EXTM3U\n")
-        for name, url in valid_channels:
-            out.write(f'#EXTINF:-1 tvg-id="" tvg-name="{name}" tvg-logo="", {name}\n')
-            out.write(f"{url}\n")
+    # ২. ইউজারদের জন্য আলাদা আলাদা প্লেলিস্ট তৈরি করা
+    if os.path.exists(user_file):
+        with open(user_file, "r") as f:
+            users = [line.strip() for line in f if line.strip()]
+    else:
+        users = ["default"] # ইউজার ফাইল না থাকলে একটি ডিফল্ট ফাইল হবে
 
-    print(f"\n--- কাজ শেষ! মোট {len(valid_channels)}টি সচল চ্যানেল নিয়ে '{output_file}' ফাইল তৈরি হয়েছে। ---")
+    print(f"\n--- ইউজারদের জন্য সিকিউর ফাইল তৈরি হচ্ছে ---")
+    for user in users:
+        output_file = f"live_{user}.m3u"
+        with open(output_file, "w", encoding="utf-8") as out:
+            out.write("#EXTM3U\n")
+            for name, url in valid_urls:
+                out.write(f'#EXTINF:-1 tvg-name="{name}", {name}\n')
+                out.write(f"{url}\n")
+        print(f"-> {user}-এর জন্য তৈরি হয়েছে: {output_file}")
 
 if __name__ == "__main__":
     check_and_scrape()
