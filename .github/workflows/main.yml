@@ -1,0 +1,35 @@
+name: IPTV Link Auto Scraper
+
+# কখন এই রোবটটি চালু হবে তা নির্ধারণ করা
+on:
+  workflow_dispatch: # এর ফলে আপনি নিজে বাটন টিপে যেকোনো সময় রান করতে পারবেন
+  schedule:
+    - cron: '0 0 * * *' # প্রতিদিন রাত ১২টায় (GMT) স্বয়ংক্রিয়ভাবে রান হবে
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    # ১. রিপোজিটরির ফাইলগুলো রোবটের কাছে নিয়ে আসা
+    - name: Checkout repository code
+      uses: actions/checkout@v3
+
+    # ২. ব্যাকগ্রাউন্ড সার্ভারে পাইথন সেটআপ করা
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    # ৩. আপনার তৈরি করা scraper.py রান করানো
+    - name: Run IPTV Scraper Script
+      run: python scraper.py
+
+    # ৪. স্ক্রিপ্ট রান হওয়ার পর তৈরি হওয়া 'live.m3u' ফাইলটি গিটহাবে সেভ (Commit & Push) করা
+    - name: Commit and Push final playlist
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add live_*.m3u
+        git commit -m "Automated Playlist Update" || echo "No changes to commit"
+        git push
