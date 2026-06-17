@@ -1,26 +1,33 @@
 import urllib.request
 import os
-import subprocess
+import re
 
 def get_youtube_m3u8(youtube_url):
-    """yt-dlp ব্যবহার করে ইউটিউব লাইভ থেকে আসল m3u8 লিংক বের করার ফাংশন"""
+    """ইউটিউব লাইভ পেজ থেকে সরাসরি এবং দ্রুত .m3u8 লিংক বের করার ফাংশন"""
     try:
         print(f"-> [ইউটিউব] লিংক এক্সট্র্যাক্ট করা হচ্ছে: {youtube_url}")
-        # yt-dlp কমান্ড রান করে ডিরেক্ট m3u8 ইউআরএল নেওয়া
-        result = subprocess.run(
-            ['yt-dlp', '-g', '-f', 'best', youtube_url],
-            stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE,
-            text=True,
-            timeout=15
+        
+        # ইউটিউব পেজ রিকোয়েস্ট করা
+        req = urllib.request.Request(
+            youtube_url, 
+            headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
         )
-        if result.returncode == 0:
-            m3u8_url = result.stdout.strip()
-            if ".m3u8" in m3u8_url:
-                return m3u8_url
+        
+        with urllib.request.urlopen(req, timeout=10) as response:
+            html = response.read().decode('utf-8')
+            
+            # পেজের সোর্স কোড থেকে hlsManifestUrl খুঁজে বের করা (Regex)
+            match = re.search(r'hlsManifestUrl[:"\']+(https://[^"\']+\.m3u8)', html)
+            
+            if match:
+                raw_m3u8 = match.group(1)
+                # জাভাস্ক্রিপ্টের ক্যারেক্টার কোড (যেমন \u0026) পরিষ্কার করে আসল & চিহ্নে রূপান্তর
+                clean_m3u8 = raw_m3u8.replace(r'\u0026', '&')
+                return clean_m3u8
+                
         return None
     except Exception as e:
-        print(f"-> [ভুল] ইউটিউব লিংক প্রসেস করা যায়নি।")
+        print(f"-> [ভুল] ইউটিউব লিংক প্রসেস করা যায়নি: {e}")
         return None
 
 def check_and_scrape():
@@ -41,12 +48,12 @@ def check_and_scrape():
         if "youtube.com" in url or "youtu.be" in url:
             yt_m3u8 = get_youtube_m3u8(url)
             if yt_m3u8:
-                valid_urls.append((f"Premium Channel {index}", yt_m3u8))
+                valid_urls.append((f"YouTube Channel {index}", yt_m3u8))
                 print(f"-> [সফল] YouTube Channel {index} যুক্ত করা হয়েছে।")
             else:
                 print(f"-> [বাদ] YouTube Channel {index} লাইভ নেই বা লিংক ভুল।")
         
-        # সাধারণ আইপিটিভি লিংকের জন্য পূর্বের নিয়ম
+        # সাধারণ আইপিটিভি লিংকের জন্য আগের নিয়ম
         else:
             try:
                 req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
@@ -66,13 +73,15 @@ def check_and_scrape():
 
     print(f"\n--- ইউজারদের জন্য সিকিউর ফাইল তৈরি হচ্ছে ---")
     for user in users:
-        output_file = f"live_{user}.m3u"
+        # এখানে ইউজারের নাম অনুযায়ী ফাইল তৈরি হবে (যেমন: live_rony.m3u)
+        user_name = user.split()[-1] if " " in user else user
+        output_file = f"live_{user_name}.m3u"
         with open(output_file, "w", encoding="utf-8") as out:
             out.write("#EXTM3U\n")
-            for name, url in valid_urls:
-                out.write(f'#EXTINF:-1 tvg-name="{name}", {name}\n')
-                out.write(f"{url}\n")
-        print(f"-> {user}-এর জন্য তৈরি হয়েছে: {output_file}")
+            for name, url_str in valid_urls:
+                out.write(f'#EXTINF:-1 tvg-name="${name}" tvg-id="" tvg-logo="", {name}\n')
+                out.write(f"{url_str}\n")
+        print(f"-> {user_name}-এর জন্য তৈরি হয়েছে: {output_file}")
 
 if __name__ == "__main__":
     check_and_scrape()
