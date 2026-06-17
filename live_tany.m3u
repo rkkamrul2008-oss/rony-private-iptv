@@ -1,89 +1,86 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="DIRECT / PERMANENT LINKS (মোবাইল ডাটা ও ওয়াইফাইতে চলবে)" tvg-name="Global BD IPTV Org List" tvg-id="" tvg-logo="", Global BD IPTV Org List
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Global BD IPTV Org List" tvg-id="" tvg-logo="", Global BD IPTV Org List
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd.m3u
 
-#EXTINF:-1 group-title="Somoy TV (Direct Server 2 - TheBossTV)" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
-#EXTINF:-1 group-title="Somoy TV (Direct Server 2 - TheBossTV)" tvg-name="Probashi TV" tvg-id="" tvg-logo="", Probashi TV
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Probashi TV" tvg-id="" tvg-logo="", Probashi TV
 http://158.69.24.53:8080/probashi_tv/index.m3u8
 
-#EXTINF:-1 group-title="Deshi TV 24" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="Deshi TV 24" tvg-name="GSeries Drama" tvg-id="" tvg-logo="", GSeries Drama
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="GSeries Drama" tvg-id="" tvg-logo="", GSeries Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Deshi TV 24" tvg-name="Alve TV Movie Bangla" tvg-id="" tvg-logo="", Alve TV Movie Bangla
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Alve TV Movie Bangla" tvg-id="" tvg-logo="", Alve TV Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-1 group-title="ME TV 1080p" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://iptvbd.live/metv1080/1080.m3u8
 
-#EXTINF:-1 group-title="ME TV 1080p" tvg-name="Boishakhi TV" tvg-id="" tvg-logo="", Boishakhi TV
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Boishakhi TV" tvg-id="" tvg-logo="", Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
-#EXTINF:-1 group-title="ME TV 1080p" tvg-name="Desh Bidesh TV" tvg-id="" tvg-logo="", Desh Bidesh TV
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Desh Bidesh TV" tvg-id="" tvg-logo="", Desh Bidesh TV
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
-#EXTINF:-1 group-title="ME TV 1080p" tvg-name="Rajdhani Cable TV" tvg-id="" tvg-logo="", Rajdhani Cable TV
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Rajdhani Cable TV" tvg-id="" tvg-logo="", Rajdhani Cable TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
-#EXTINF:-1 group-title="Ekushey TV Server 1" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 group-title="Ekushey TV Server 2" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 group-title="SRK TV (Direct Server 1 - Playlist)" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="SRK TV (Direct Server 2 - Tracks)" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Deepto TV (Direct Server 1 - HD)" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
-#EXTINF:-1 group-title="Deepto TV (Direct Server 2 - SD)" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
-#EXTINF:-1 group-title="BDIX Stream 28" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://banglavu.top/live/shamim77/shamim77/28.m3u8
+#EXTINF:-1 group-title="BDIX Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
+https://banglavu.top/live/shamim77/shamim77/30.m3u8
 
-#EXTINF:-1 group-title="BDIX Stream 29" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://banglavu.top/live/shamim77/shamim77/29.m3u8
-
-#EXTINF:-1 group-title="BDIX Stream 31" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://banglavu.top/live/shamim77/shamim77/31.m3u8
-
-#EXTINF:-1 group-title="BDIX Stream 36" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
+#EXTINF:-1 group-title="BDIX Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://banglavu.top/live/shamim77/shamim77/36.m3u8
 
-#EXTINF:-1 group-title="BDIX Stream 39" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://banglavu.top/live/shamim77/shamim77/39.m3u8
-
-#EXTINF:-1 group-title="BDIX Stream 46" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://banglavu.top/live/shamim77/shamim77/46.m3u8
-
-#EXTINF:-1 group-title="INTERNATIONAL NEWS CHANNELS (নতুন যুক্ত হওয়া আন্তর্জাতিক চ্যানেল)" tvg-name="NDTV English" tvg-id="" tvg-logo="", NDTV English
+#EXTINF:-1 group-title="International News" tvg-name="NDTV English" tvg-id="" tvg-logo="", NDTV English
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 
-#EXTINF:-1 group-title="INTERNATIONAL NEWS CHANNELS (নতুন যুক্ত হওয়া আন্তর্জাতিক চ্যানেল)" tvg-name="NDTV Hindi" tvg-id="" tvg-logo="", NDTV Hindi
+#EXTINF:-1 group-title="International News" tvg-name="NDTV Hindi" tvg-id="" tvg-logo="", NDTV Hindi
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 
-#EXTINF:-1 group-title="News Max 2" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-#EXTINF:-1 group-title="JagoBD Token - Channel 16 BD (Expires)" tvg-name="NCare Token - Chsukoff Stream (Expires)" tvg-id="" tvg-logo="", NCare Token - Chsukoff Stream (Expires)
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="ISP Restricted / Temporary" tvg-name="JagoBD Token - My TV Up Off (Expires)" tvg-id="" tvg-logo="", JagoBD Token - My TV Up Off (Expires)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="ISP Restricted / Temporary" tvg-name="NCare Token - Chsukoff Stream (Expires)" tvg-id="" tvg-logo="", NCare Token - Chsukoff Stream (Expires)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="JagoBD Token - Channel 16 BD (Expires)" tvg-name="NCare Token - Green TV Stream (Expires)" tvg-id="" tvg-logo="", NCare Token - Green TV Stream (Expires)
+#EXTINF:-1 group-title="ISP Restricted / Temporary" tvg-name="NCare Token - Green TV Stream (Expires)" tvg-id="" tvg-logo="", NCare Token - Green TV Stream (Expires)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="JagoBD Token - Channel 16 BD (Expires)" tvg-name="NCare Token - NTV UK (Expires)" tvg-id="" tvg-logo="", NCare Token - NTV UK (Expires)
+#EXTINF:-1 group-title="ISP Restricted / Temporary" tvg-name="NCare Token - NTV UK (Expires)" tvg-id="" tvg-logo="", NCare Token - NTV UK (Expires)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="TVSen - Channel QUud8Nxs (Expires)" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
 
