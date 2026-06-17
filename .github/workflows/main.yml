@@ -3,7 +3,7 @@ name: IPTV Link Auto Scraper
 on:
   workflow_dispatch: 
   schedule:
-    - cron: '0 0 * * *' 
+    - cron: '0 */3 * * *' # প্রতিদিন ১ বারের বদলে এখন প্রতি ৩ ঘণ্টা পর পর অটো-রান হবে
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
@@ -20,12 +20,6 @@ jobs:
       uses: actions/setup-python@v5
       with:
         python-version: '3.x'
-
-    # এখানে ইউটিউব লিংক এক্সট্র্যাক্ট করার জন্য প্রয়োজনীয় লাইব্রেরি ইন্সটল করা হচ্ছে
-    - name: Install yt-dlp
-      run: |
-        python -m pip install --upgrade pip
-        pip install yt-dlp
 
     - name: Run IPTV Scraper Script
       run: python scraper.py
