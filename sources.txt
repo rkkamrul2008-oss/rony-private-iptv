@@ -1,110 +1,312 @@
+# ====================================================
+# ১. DIRECT / PERMANENT LINKS (মোবাইল ডাটা ও ওয়াইফাইতে চলবে)
+# ====================================================
+
+# Global BD IPTV Org List
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd.m3u
+
+# ATN Bangla HD (Direct Server 1)
 http://cdn.moviemazic.xyz:8083/ATNBangla/tracks-v1/mono.m3u8
-https://banglavu.top/live/shamim77/shamim77/28.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=2202800.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-https://banglavu.top/live/shamim77/shamim77/36.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-http://cdn.moviemazic.xyz:8083/ATNBangla/tracks-v1/mono.m3u8?token=ec3337636c7558e016daf53b6ce6c182d779ff6a-b5670cadff866b0f3975c0aac625682b-1781548583-1781537783
-http://172.17.50.112:84/ant1004/tracks-v1a1/mono.m3u8
-http://cdn.moviemazic.xyz:8083/btv/tracks-v1a1/mono.m3u8?token=2d7acbb766f94e851d68b4de886f5a15acd63713-fee0873b142539ddd2f0e7576b1578d7-1781429545-1781418745
-http://cdn.moviemazic.xyz:8083/BTV-National/tracks-v1a1/mono.m3u8?token=2974a10ef12fae81e9d72fa0eaa20f0ee34c9089-323a9a5d23de06978df4e3317cbd7974-1781427144-1781416344
-https://tvsen6.aynaott.com/btvctg/index.m3u8?e=1779674544&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=318c1fcf09dd995209da6834793766ad
-https://banglavu.top/live/shamim77/shamim77/28.m3u8
-https://tvsen6.aynaott.com/bijoytv/index.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-https://banglavu.top/live/shamim77/shamim77/30.m3u8
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=2202800.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=1692000.m3u8
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
-http://cdn.moviemazic.xyz:8083/DBCNews/tracks-v1a1/mono.m3u8?token=2e4c42ddd618e55ea4aefea10f74c2b8592fbf41-023ef1d63c80f9d7a248bf88e313880f-1781428106-1781417306
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-video=3224800.m3u8
-https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-https://tvsen6.aynaott.com/deshtv/index.m3u8
-http://10.99.99.99:8082/DURANTA.TV.HD/tracks-v1a1/mono.m3u8?token=03a0289eddb001fc2895e2208df1ab1a268fa139-909bc881f5c2ac7907ac6b3e7be463b5-1781450207-1781439407
-https://tvsen6.aynaott.com/durontotv-live/index.m3u8?e=1779674544&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9ae4e9c2a90ab17dfe2d1d3d7af3c1fb
-https://tvsen6.aynascope.net/durontotv-live/index.m3u8?e=1778173999&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=acf6ac30f8871dbc2d4ed0d1b17eff81
-https://banglavu.top/live/shamim77/shamim77/46.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-http://cdn.moviemazic.xyz:8083/EkattorTV/tracks-v1a1/mono.m3u8?token=748dd7679bc9812bdbc10b8bf66eb4a530c44eea-3f96cc9ac4deeb4023edb05b159add63-1781428593-1781417793
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-http://cdn.moviemazic.xyz:8083/ETV/tracks-v1a1/mono.m3u8?token=745c55a6c2ce92a85a10e6777c1ceeabe26eeb28-047de7986fa1d2e82b9c3b2125c33b97-1781428695-1781417895
-http://cdn.moviemazic.xyz:8083/GaziTV/tracks-v1a1/mono.m3u8?token=78744c30028af0a54edeb95d8cbc3594993688e1-c27d70877262261719cb703c109c5eca-1781427082-1781416282
-https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-https://tvsen6.aynaott.com/globaltvhd/index.m3u8?e=1779674544&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cfd7b785ed7a466ef8aa415c993c6087
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
-https://edge2.roarzone.net:8447/roarzone/edge3/islamic_tv/index.m3u8?token=3474ed33163abe6a63f82910693d1ca1aba8e855-43212ab1502232d541d3888b2b867b3d-1779678099-1779667299
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-http://10.99.99.99:8082/JAMUNA.TV/tracks-v1a1/mono.m3u8?token=91fa846490499d614e6e5d80d40a45da15525463-60adef5402fe04c1d29042d648450337-1781428843-1781418043
-https://banglavu.top/live/shamim77/shamim77/39.m3u8
-https://tvsen6.aynascope.net/mohonatv/index.m3u8?e=1778174004&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d8bd0434904911f1c18dc444969b658e
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=2202800.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
-https://iptvbd.live/metv1080/1080.m3u8
-http://alvetv.com/moviebanglatv/8080/index.m3u8
-https://edge2.roarzone.net:8447/roarzone/edge3/movie_bangla/index.m3u8?token=ce470396d97be8f0e8fda99cf68b71a465ca3d7b-ca505e70c05daa1e83e0828568dbeb84-1779678100-1779667300
-https://tvsen7.aynaott.com/MadaniTV/index.m3u8?e=1779674549&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ee516df06d36a24991d904de408c834c
-https://tvsen7.aynaott.com/deen/index.m3u8?e=1779674549&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a679ede952a1d7d9c26aa47f63642715
-https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708-audio_113382_eng=113200-video=3224800.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
+
+# Nagorik TV
 http://cdn.moviemazic.xyz:8083/NagorikTV/tracks-v1a1/mono.m3u8
-https://banglavu.top/live/shamim77/shamim77/29.m3u8
-https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
-https://edge2.roarzone.net:8447/roarzone/edge3/rajdhani_tv/index.m3u8?token=0f88aa67ba16235d63d197a4377865a5da7476b9-5032d052512bccfb67e25489a0913f3a-1779678099-1779667299
-https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
-https://tvsen5.aynaott.com/RtvHD/index.m3u8?e=1779674544&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fab807b91512683382d35d4d179db04c
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+# Somoy TV (Direct Server 1)
 http://cdn.moviemazic.xyz:8083/SomoyTv/tracks-v1a1/mono.m3u8
-https://banglavu.top/live/shamim77/shamim77/31.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+
+# Somoy TV (Direct Server 2 - TheBossTV)
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+# Probashi TV
 http://158.69.24.53:8080/probashi_tv/index.m3u8
-http://10.99.99.99:8082/ATN.BANGLA.HD/tracks-v1a1/mono.m3u8?token=fd62f8da185a85661412a6e3379309d1f33ceb15-c73a34b7e30d855251c689e542f5ba53-1781547245-1781536445
+
+# Deshi TV 24
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+# GSeries Drama
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+
+# Alve TV Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+# ME TV 1080p
+https://iptvbd.live/metv1080/1080.m3u8
+
+# Bijoy TV
+https://tvsen6.aynaott.com/bijoytv/index.m3u8
+
+# Boishakhi TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+
+# Desh TV
+https://tvsen6.aynaott.com/deshtv/index.m3u8
+
+# Desh Bidesh TV
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+
+# Rajdhani Cable TV
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+
+# RTV Stream (Direct TS)
+https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
+
+# Ekushey TV Server 1
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+# Ekushey TV Server 2
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+# SRK TV (Direct Server 1 - Playlist)
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+
+# SRK TV (Direct Server 2 - Tracks)
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
+
+# Deepto TV (Direct Server 1 - HD)
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+
+# Deepto TV (Direct Server 2 - SD)
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+# BDIX Stream 28
+https://banglavu.top/live/shamim77/shamim77/28.m3u8
+
+# BDIX Stream 29
+https://banglavu.top/live/shamim77/shamim77/29.m3u8
+
+# BDIX Stream 30
+https://banglavu.top/live/shamim77/shamim77/30.m3u8
+
+# BDIX Stream 31
+https://banglavu.top/live/shamim77/shamim77/31.m3u8
+
+# BDIX Stream 36
+https://banglavu.top/live/shamim77/shamim77/36.m3u8
+
+# BDIX Stream 39
+https://banglavu.top/live/shamim77/shamim77/39.m3u8
+
+# BDIX Stream 46
+https://banglavu.top/live/shamim77/shamim77/46.m3u8
+
+# ====================================================
+# ২. INTERNATIONAL NEWS CHANNELS (নতুন যুক্ত হওয়া আন্তর্জাতিক চ্যানেল)
+# ====================================================
+
+# NDTV English
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+
+# NDTV Hindi
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+
+# News Max 2
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+# ====================================================
+# ৩. YOUTUBE LIVE CHANNELS (সব নেটওয়ার্কে অটো-আপডেট হবে)
+# ====================================================
+
+# YouTube Live 1
 https://www.youtube.com/watch?v=gcT2YrCBdvU
+
+# YouTube Live 2
 https://www.youtube.com/watch?v=QatsoUsW5no
+
+# YouTube Live 3
 https://www.youtube.com/watch?v=yxclepWU02Y
+
+# YouTube Live 4
 https://www.youtube.com/watch?v=TKLERsfVMgI
+
+# YouTube Live 5
 https://www.youtube.com/watch?v=OkhlMlx5QL8
+
+# YouTube Live 6
 https://www.youtube.com/watch?v=pW3wrbIbT7A
+
+# YouTube Live 7
 https://www.youtube.com/watch?v=59F3sMxX2D4
-https://www.youtube.com/watch?v=3MZvw3xP5mM
+
+# YouTube Live 8
+https://www.youtube.com/watch?v=tAidYvp9xLk
+
+# YouTube Live 9
 https://www.youtube.com/watch?v=AF5wnXMbDso
+
+# YouTube Live 10
 https://www.youtube.com/watch?v=jwNnkEa6Ip8
+
+# YouTube Live 11
 https://www.youtube.com/watch?v=tbkWU88p5ks
-https://www.youtube.com/watch?v=pW3wrbIbT7A
-https://www.youtube.com/watch?v=OkhlMlx5QL8
+
+# YouTube Live 12
 https://www.youtube.com/watch?v=_-LHi54v-jA
-https://www.youtube.com/watch?v=Kbh2iUQIKuo
-https://www.youtube.com/watch?v=55I8verZdzA
-https://www.youtube.com/watch?v=4P_P5KAn7AU
-https://www.youtube.com/watch?v=6Ec7bnQVO44
-https://www.youtube.com/watch?v=vbsu2puWDz8
-https://www.youtube.com/watch?v=nyd-xznCpJc
-https://www.youtube.com/watch?v=YoAzEs1GwJg
+
+# ====================================================
+# ৪. TEMPORARY / ISP LOCKED LINKS (সাময়িক টোকেন অথবা লোকাল ওয়াইফাই)
+# ====================================================
+
+# Local ISP - ATN Bangla HD (WiFi Only)
+http://10.99.99.99:8082/ATN.BANGLA.HD/tracks-v1a1/mono.m3u8?token=fd62f8da185a85661412a6e3379309d1f33ceb15-c73a34b7e30d855251c689e542f5ba53-1781547245-1781536445
+
+# Local ISP - Jamuna TV (WiFi Only)
+http://10.99.99.99:8082/JAMUNA.TV/tracks-v1a1/mono.m3u8?token=91fa846490499d614e6e5d80d40a45da15525463-60adef5402fe04c1d29042d648450337-1781428843-1781418043
+
+# Local ISP - Duranto TV (WiFi Only)
+http://10.99.99.99:8082/DURANTA.TV.HD/tracks-v1a1/mono.m3u8?token=03a0289eddb001fc2895e2208df1ab1a268fa139-909bc881f5c2ac7907ac6b3e7be463b5-1781450207-1781439407
+
+# Local ISP Link - ANT
+http://172.17.50.112:84/ant1004/tracks-v1a1/mono.m3u8
+
+# Token Linked - ATN Bangla (Expires)
+http://cdn.moviemazic.xyz:8083/ATNBangla/tracks-v1/mono.m3u8?token=ec3337636c7558e016daf53b6ce6c182d779ff6a-b5670cadff866b0f3975c0aac625682b-1781548583-1781537783
+
+# Token Linked - BTV National (Expires)
+http://cdn.moviemazic.xyz:8083/BTV-National/tracks-v1a1/mono.m3u8?token=2974a10ef12fae81e9d72fa0eaa20f0ee34c9089-323a9a5d23de06978df4e3317cbd7974-1781427144-1781416344
+
+# Token Linked - BTV National Alt (Expires)
+http://cdn.moviemazic.xyz:8083/btv/tracks-v1a1/mono.m3u8?token=2d7acbb766f94e851d68b4de886f5a15acd63713-fee0873b142539ddd2f0e7576b1578d7-1781429545-1781418745
+
+# Token Linked - DBC News (Expires)
+http://cdn.moviemazic.xyz:8083/DBCNews/tracks-v1a1/mono.m3u8?token=2e4c42ddd618e55ea4aefea10f74c2b8592fbf41-023ef1d63c80f9d7a248bf88e313880f-1781428106-1781417306
+
+# Token Linked - Ekattor TV (Expires)
+http://cdn.moviemazic.xyz:8083/EkattorTV/tracks-v1a1/mono.m3u8?token=748dd7679bc9812bdbc10b8bf66eb4a530c44eea-3f96cc9ac4deeb4023edb05b159add63-1781428593-1781417793
+
+# Token Linked - ETV (Expires)
+http://cdn.moviemazic.xyz:8083/ETV/tracks-v1a1/mono.m3u8?token=745c55a6c2ce92a85a10e6777c1ceeabe26eeb28-047de7986fa1d2e82b9c3b2125c33b97-1781428695-1781417795
+
+# Token Linked - Gazi TV (Expires)
+http://cdn.moviemazic.xyz:8083/GaziTV/tracks-v1a1/mono.m3u8?token=78744c30028af0a54edeb95d8cbc3594993688e1-c27d70877262261719cb703c109c5eca-1781427082-1781416282
+
+# GPCDN - Channel 1701
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+# GPCDN - Channel 1703
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+
+# GPCDN - Channel 1703 (Audio/Video Split)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
+
+# GPCDN - Channel 1704
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
+# GPCDN - Channel 1704 (Audio/Video Split)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
+
+# GPCDN - Channel 1705
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+# GPCDN - Channel 1705 (Audio/Video Split)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
+
+# GPCDN - Channel 1706
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+
+# GPCDN - Channel 1708
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+
+# GPCDN - Channel 1708 (Audio/Video Split)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708-audio_113382_eng=113200-video=3224800.m3u8
+
+# GPCDN - Channel 1710
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+
+# GPCDN - Channel 1710 Alt
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
+
+# GPCDN - Channel 1711
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+
+# GPCDN - Channel 1711 (Audio/Video Split)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
+
+# GPCDN - Channel 1715
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
+# GPCDN - Channel 1716
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+# GPCDN - Channel 1716 (Audio/Video Split)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
+
+# GPCDN - Channel 1722
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+# GPCDN - Channel 1722 (Audio/Video Split)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=2202800.m3u8
+
+# GPCDN - Channel 1723
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+# GPCDN - Channel 1723 (Audio/Video Split)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=1692000.m3u8
+
+# GPCDN - Channel 1724
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+
+# GPCDN - Channel 1728
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+
+# GPCDN - Channel 1728 (Audio/Video Split)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-video=3224800.m3u8
+
+# GPCDN - Channel 1729
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+
+# GPCDN - Channel 1729 (Audio/Video Split)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=2202800.m3u8
+
+# AynaOTT Token - BTV Chittagong (Expires)
+https://tvsen6.aynaott.com/btvctg/index.m3u8?e=1779674544&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=318c1fcf09dd995209da6834793766ad
+
+# AynaOTT Token - Duranto TV 1 (Expires)
+https://tvsen6.aynaott.com/durontotv-live/index.m3u8?e=1779674544&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9ae4e9c2a90ab17dfe2d1d3d7af3c1fb
+
+# AynaOTT Token - Duranto TV 2 (Expires)
+https://tvsen6.aynascope.net/durontotv-live/index.m3u8?e=1778173999&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=acf6ac30f8871dbc2d4ed0d1b17eff81
+
+# AynaOTT Token - Global TV HD (Expires)
+https://tvsen6.aynaott.com/globaltvhd/index.m3u8?e=1779674544&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cfd7b785ed7a466ef8aa415c993c6087
+
+# AynaOTT Token - Mohona TV (Expires)
+https://tvsen6.aynascope.net/mohonatv/index.m3u8?e=1778174004&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d8bd0434904911f1c18dc444969b658e
+
+# AynaOTT Token - Madani TV (Expires)
+https://tvsen7.aynaott.com/MadaniTV/index.m3u8?e=1779674544&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ee516df06d36a24991d904de408c834c
+
+# AynaOTT Token - Deen TV (Expires)
+https://tvsen7.aynaott.com/deen/index.m3u8?e=1779674544&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a679ede952a1d7d9c26aa47f63642715
+
+# AynaOTT Token - RTV HD (Expires)
+https://tvsen5.aynaott.com/RtvHD/index.m3u8?e=1779674544&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fab807b91512683382d35d4d179db04c
+
+# Roarzone Token - Islamic TV (Expires)
+https://edge2.roarzone.net:8447/roarzone/edge3/islamic_tv/index.m3u8?token=3474ed33163abe6a63f82910693d1ca1aba8e855-43212ab1502232d541d3888b2b867b3d-1779678099-1779667299
+
+# Roarzone Token - Movie Bangla (Expires)
+https://edge2.roarzone.net:8447/roarzone/edge3/movie_bangla/index.m3u8?token=ce470396d97be8f0e8fda99cf68b71a465ca3d7b-ca505e70c05daa1e83e0828568dbeb84-1779678100-1779667300
+
+# Roarzone Token - Rajdhani TV (Expires)
+https://edge2.roarzone.net:8447/roarzone/edge3/rajdhani_tv/index.m3u8?token=0f88aa67ba16235d63d197a4377865a5da7476b9-5032d052512bccfb67e25489a0913f3a-1779678099-1779667299
+
+# JagoBD Token - Channel 1 BD (Expires)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+
+# JagoBD Token - Channel 16 BD (Expires)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
+
+# JagoBD Token - My TV Up Off (Expires)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
+
+# NCare Token - Chsukoff Stream (Expires)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
+
+# NCare Token - Green TV Stream (Expires)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
+
+# NCare Token - NTV UK (Expires)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
+
+# TVSen - Channel QUud8Nxs (Expires)
+https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
