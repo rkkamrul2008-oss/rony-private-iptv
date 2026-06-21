@@ -4,6 +4,9 @@
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd.m3u
 
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="GSeries Drama" tvg-id="" tvg-logo="", GSeries Drama
@@ -41,6 +44,27 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+#EXTINF:-1 group-title="BDIX Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
+https://banglavu.top/live/shamim77/shamim77/28.m3u8
+
+#EXTINF:-1 group-title="BDIX Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
+https://banglavu.top/live/shamim77/shamim77/29.m3u8
+
+#EXTINF:-1 group-title="BDIX Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
+https://banglavu.top/live/shamim77/shamim77/30.m3u8
+
+#EXTINF:-1 group-title="BDIX Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
+https://banglavu.top/live/shamim77/shamim77/31.m3u8
+
+#EXTINF:-1 group-title="BDIX Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
+https://banglavu.top/live/shamim77/shamim77/36.m3u8
+
+#EXTINF:-1 group-title="BDIX Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
+https://banglavu.top/live/shamim77/shamim77/39.m3u8
+
+#EXTINF:-1 group-title="BDIX Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
+https://banglavu.top/live/shamim77/shamim77/46.m3u8
 
 #EXTINF:-1 group-title="International News" tvg-name="NDTV English" tvg-id="" tvg-logo="", NDTV English
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
