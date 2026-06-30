@@ -75,6 +75,9 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="ISP Restricted / Temporary" tvg-name="NCare Token - Chsukoff Stream (Expires)" tvg-id="" tvg-logo="", NCare Token - Chsukoff Stream (Expires)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="ISP Restricted / Temporary" tvg-name="NCare Token - Green TV Stream (Expires)" tvg-id="" tvg-logo="", NCare Token - Green TV Stream (Expires)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="ISP Restricted / Temporary" tvg-name="NCare Token - NTV UK (Expires)" tvg-id="" tvg-logo="", NCare Token - NTV UK (Expires)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
 
