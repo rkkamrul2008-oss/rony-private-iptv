@@ -49,13 +49,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
 #EXTINF:-1 group-title="BDIX Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://banglavu.top/live/shamim77/shamim77/28.m3u8
-
-#EXTINF:-1 group-title="BDIX Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://banglavu.top/live/shamim77/shamim77/29.m3u8
-
-#EXTINF:-1 group-title="BDIX Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://banglavu.top/live/shamim77/shamim77/30.m3u8
 
 #EXTINF:-1 group-title="BDIX Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://banglavu.top/live/shamim77/shamim77/31.m3u8
@@ -77,6 +71,15 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="ISP Restricted / Temporary" tvg-name="JagoBD Token - My TV Up Off (Expires)" tvg-id="" tvg-logo="", JagoBD Token - My TV Up Off (Expires)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ISP Restricted / Temporary" tvg-name="NCare Token - Chsukoff Stream (Expires)" tvg-id="" tvg-logo="", NCare Token - Chsukoff Stream (Expires)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
