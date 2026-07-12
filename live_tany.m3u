@@ -3,9 +3,6 @@
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Global BD IPTV Org List" tvg-id="" tvg-logo="", Global BD IPTV Org List
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd.m3u
 
-#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Probashi TV" tvg-id="" tvg-logo="", Probashi TV
 http://158.69.24.53:8080/probashi_tv/index.m3u8
 
@@ -48,27 +45,6 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
-#EXTINF:-1 group-title="BDIX Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://banglavu.top/live/shamim77/shamim77/28.m3u8
-
-#EXTINF:-1 group-title="BDIX Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://banglavu.top/live/shamim77/shamim77/29.m3u8
-
-#EXTINF:-1 group-title="BDIX Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://banglavu.top/live/shamim77/shamim77/30.m3u8
-
-#EXTINF:-1 group-title="BDIX Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://banglavu.top/live/shamim77/shamim77/31.m3u8
-
-#EXTINF:-1 group-title="BDIX Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://banglavu.top/live/shamim77/shamim77/36.m3u8
-
-#EXTINF:-1 group-title="BDIX Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://banglavu.top/live/shamim77/shamim77/39.m3u8
-
-#EXTINF:-1 group-title="BDIX Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://banglavu.top/live/shamim77/shamim77/46.m3u8
-
 #EXTINF:-1 group-title="International News" tvg-name="NDTV English" tvg-id="" tvg-logo="", NDTV English
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 
@@ -77,9 +53,6 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-
-#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
