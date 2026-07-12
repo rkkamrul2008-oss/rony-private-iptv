@@ -18,9 +18,6 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Alve TV Movie Bangla" tvg-id="" tvg-logo="", Alve TV Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://iptvbd.live/metv1080/1080.m3u8
-
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Boishakhi TV" tvg-id="" tvg-logo="", Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
