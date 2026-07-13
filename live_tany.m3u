@@ -18,6 +18,9 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Alve TV Movie Bangla" tvg-id="" tvg-logo="", Alve TV Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
+https://iptvbd.live/metv1080/1080.m3u8
+
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Desh Bidesh TV" tvg-id="" tvg-logo="", Desh Bidesh TV
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
@@ -55,9 +58,6 @@ https://banglavu.top/live/shamim77/shamim77/30.m3u8
 https://banglavu.top/live/shamim77/shamim77/31.m3u8
 
 #EXTINF:-1 group-title="BDIX Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://banglavu.top/live/shamim77/shamim77/36.m3u8
-
-#EXTINF:-1 group-title="BDIX Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://banglavu.top/live/shamim77/shamim77/39.m3u8
 
 #EXTINF:-1 group-title="BDIX Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
@@ -86,7 +86,4 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 #EXTINF:-1 group-title="ISP Restricted / Temporary" tvg-name="NCare Token - NTV UK (Expires)" tvg-id="" tvg-logo="", NCare Token - NTV UK (Expires)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
 
