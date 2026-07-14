@@ -6,9 +6,6 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd.m3u
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
-#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Probashi TV" tvg-id="" tvg-logo="", Probashi TV
-http://158.69.24.53:8080/probashi_tv/index.m3u8
-
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
@@ -17,9 +14,6 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Alve TV Movie Bangla" tvg-id="" tvg-logo="", Alve TV Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-
-#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://iptvbd.live/metv1080/1080.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Desh Bidesh TV" tvg-id="" tvg-logo="", Desh Bidesh TV
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
@@ -68,7 +62,4 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 #EXTINF:-1 group-title="ISP Restricted / Temporary" tvg-name="NCare Token - NTV UK (Expires)" tvg-id="" tvg-logo="", NCare Token - NTV UK (Expires)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
 
