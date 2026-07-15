@@ -3,9 +3,6 @@
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Global BD IPTV Org List" tvg-id="" tvg-logo="", Global BD IPTV Org List
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd.m3u
 
-#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Probashi TV" tvg-id="" tvg-logo="", Probashi TV
 http://158.69.24.53:8080/probashi_tv/index.m3u8
 
