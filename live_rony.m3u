@@ -24,9 +24,6 @@ https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Desh Bidesh TV" tvg-id="" tvg-logo="", Desh Bidesh TV
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
-#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Rajdhani Cable TV" tvg-id="" tvg-logo="", Rajdhani Cable TV
-https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
-
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
