@@ -120,9 +120,6 @@ https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://box.bbaria.net:8083/Nagorik_TV/video.m3u8
-
 #EXTINF:-1 group-title="BDIX Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://banglavu.top/live/shamim77/shamim77/29.m3u8
 
@@ -202,9 +199,6 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209587/index.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
@@ -215,9 +209,6 @@ https://live.sanandatelevision.in/sananda/index.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
-
-#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
