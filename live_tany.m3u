@@ -3,6 +3,9 @@
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://playztv-apps.pages.dev/ananda-tv/index.m3u8
 
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
+https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="ISP Restricted / Temporary" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8?e=1784102576&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=901c0ca2f1ba54041a543dce43641c12
 
@@ -98,9 +101,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://iptvbd.live/metv1080/1080.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 http://alvetv.com/moviebanglatv/8080/index.m3u8
