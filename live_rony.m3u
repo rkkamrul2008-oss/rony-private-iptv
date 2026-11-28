@@ -124,12 +124,6 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="ISP Restricted / Temporary" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://tvsen5.aynaott.com/RtvHD/index.m3u8?e=1779674544&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fab807b91512683382d35d4d179db04c
-
-#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
 
 #EXTINF:-1 group-title="ISP Restricted / Temporary" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
@@ -205,16 +199,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://server.zillarbarta.com/ZBCINEMA/index.m3u8
-
-#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://server.zillarbarta.com/zbcatun/video.m3u8
-
-#EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
-https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-name="Live Channel" tvg-id="" tvg-logo="", Live Channel
 https://server.zillarbarta.com/zbmusic/index.m3u8
